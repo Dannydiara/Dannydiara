@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dannydiara
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on creating websites
-- 📫 How to reach me on GitHub @Dannydiara and email: danielabudiara18@gmail.com
+👋 Hey there! I'm Danny, a passionate web developer with a knack for crafting immersive front-end experiences. 🚀
 
-<!---
-Dannydiara/Dannydiara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ My Toolbox:
+
+JavaScript | TypeScript
+React.js | Next.js
+HTML | CSS | SCSS
+Tailwind CSS
+Git | GitHub
+🌐 I love building web applications that not only look good but also deliver exceptional user experiences. From React-powered interfaces to sleek styling with SCSS and the speed of Tailwind CSS, I'm all about creating digital magic.
