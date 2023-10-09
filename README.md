@@ -2,9 +2,9 @@
 
 🛠️ My Toolbox:
 
-JavaScript | TypeScript
+JavaScript
 React.js | Next.js
 HTML | CSS | SCSS
 Tailwind CSS
 Git | GitHub
-🌐 I love building web applications that not only look good but also deliver exceptional user experiences. From React-powered interfaces to sleek styling with SCSS and the speed of Tailwind CSS, I'm all about creating digital magic.
+🌐 I love building web applications that not only look good but also deliver exceptional user experiences. From React-powered interfaces to sleek stylish and the speed of Tailwind CSS, I'm all about creating digital magic.
